@@ -1,0 +1,38 @@
+# --- Core ---
+httpx[http2]>=0.27.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.0
+playwright>=1.44.0
+pandas>=2.2.2
+python-slugify>=8.0.4
+tenacity>=8.3.0
+tqdm>=4.66.4
+
+# --- Website / robots ---
+protego>=0.3.1
+
+# --- News ---
+feedparser>=6.0.11
+newspaper3k>=0.2.8
+
+# --- Instagram ---
+instaloader>=4.11
+
+# --- YouTube ---
+yt-dlp>=2024.5.27
+youtube-transcript-api>=0.6.2
+
+# --- NLP / Facts ---
+spacy>=3.7.4
+
+# --- Embeddings / Search / RAG ---
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+numpy>=1.26.4
+
+# --- Dashboard ---
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# --- Misc ---
+python-dotenv>=1.0.1
